@@ -3,6 +3,7 @@ package domain;
 /**
  * Created by Tiron Andreea on 12/03/2017.
  */
+
 import repository.HasId;
 
 public class Artist implements HasId<Integer> {
